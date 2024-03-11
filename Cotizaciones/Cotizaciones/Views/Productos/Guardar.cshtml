@@ -1,0 +1,51 @@
+﻿@model GuardarProdcutosModel
+@{
+    ViewData["Title"] = "Guardar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Crear Producto
+    </div>
+    <div class="card-body">
+        <form asp-action="Guardar" asp-controller="Productos" method="post">
+            <div class="mb-3">
+                <label class="form-label">Nombre</label>
+                <input asp-for="Producto.Nombre" type="text" class="form-control">
+                <span asp-validation-for="Producto.Nombre" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Desccripcion</label>
+                <input asp-for="Producto.Descripcion" type="text" class="form-control">
+                <span asp-validation-for="Producto.Descripcion" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Stock</label>
+                <input asp-for="Producto.Stock" type="number" class="form-control">
+                <span asp-validation-for="Producto.Stock" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Precio</label>
+                <input asp-for="Producto.precio" type="text" class="form-control">
+                <span asp-validation-for="Producto.precio" class="text-danger"></span>
+            </div>
+           
+            <div class="mb-3">
+
+                <select asp-for="Producto.IdFamilia" class="form-control" aria-label="Default select example">
+                    <option selected>Open this select menu</option>
+                    @foreach(var item in Model.familiaProductos)
+                    {
+                        <option value="@item.IdFamilia">@item.Nombre</option>
+                    }
+                    
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary"><i class="bi bi-floppy-fill"></i> Guardar</button>
+            <a asp-action="Listar" asp-controller="Productos" class="btn btn-warning"> <i class="bi bi-arrow-left-square-fill"></i> Volver a la lista</a>
+        </form>
+    </div>
+</div>
+
+
