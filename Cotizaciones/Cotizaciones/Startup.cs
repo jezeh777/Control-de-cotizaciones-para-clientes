@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Rotativa.AspNetCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -46,13 +47,18 @@ namespace Cotizaciones
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseRotativa(env);
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Cotizacion}/{action=ReporteCotizaciones}/{id?}");
             });
+
+            RotativaConfiguration.Setup(env.WebRootPath,"../Rotativa/Windows");
+            
+
         }
     }
 }

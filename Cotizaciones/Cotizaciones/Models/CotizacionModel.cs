@@ -11,5 +11,9 @@ namespace Cotizaciones.Models
         public int Cantidad { get; set; }
 
         public decimal  Total { get; set; }
+
+        public string NombreCliente { get; set; }
     }
+
+
 }

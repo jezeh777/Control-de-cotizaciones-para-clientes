@@ -8,8 +8,7 @@ namespace Cotizaciones.Models
 
         public List<ProductosModel> productos { get; set; }
 
-        public CotizacionModel header { get; set; }
+        public List<ClienteModel> cliente { get; set; }
 
-        public List<DetalleModel> Detalle { get; set; }
     }
 }

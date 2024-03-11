@@ -10,6 +10,7 @@ obj/
 *.userosscache
 *.sln.docstates
 
+*.vsidx
 # Mono Auto Generated Files
 mono_crash.*
 

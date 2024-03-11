@@ -9,4 +9,6 @@
         public decimal precio { get; set; }
         public decimal Total { get; set; }
     }
+
+   
 }

@@ -1,0 +1,40 @@
+﻿@model List<CotizacionModel>
+@{
+    ViewData["Title"] = "ReporteCotizaciones";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2> Listado de cotizaciones</h2>
+<div class="card">
+    <div class="card-body">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>No Cotizacion</th>
+                    <th>Cliente</th>
+                    <th>Cantidad Productos</th>
+                    <th>Total</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.IdCotizacion</td>
+                        <td>@item.NombreCliente</td>
+                        <td>@item.Cantidad</td>
+                        <td>@item.Total</td>
+                        <td><a class="btn btn-primary btn-sm" asp-action="ImprimirCotizacion" asp-controller="Cotizacion" asp-route-idCotizacion="@item.IdCotizacion"><i class="bi bi-printer-fill"></i> Imprimir</a> </td>
+
+                    </tr>
+                }
+                
+            </tbody>
+        </table>
+    </div>
+
+
+
+</div>
+
