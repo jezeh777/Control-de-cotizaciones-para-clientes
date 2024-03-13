@@ -34,7 +34,7 @@
             <div class="mb-3">
 
                 <select asp-for="Producto.IdFamilia" class="form-control" aria-label="Default select example">
-                    <option selected>Open this select menu</option>
+                    <option selected>Selecciona una categoria</option>
                     @foreach(var item in Model.familiaProductos)
                     {
                         <option value="@item.IdFamilia">@item.Nombre</option>

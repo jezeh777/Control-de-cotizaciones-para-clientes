@@ -1,0 +1,23 @@
+﻿@model FamiliaProductosModel
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        Eliminar Familia de productos 
+    </div>
+    <div class="card-body">
+        <form asp-action="Eliminar" asp-controller="Familia" method="post">
+            <input asp-for="IdFamilia" type="hidden" class="form-control">
+            <div class="alert alert-danger" role="alert">
+                Desea eliminar el Familia: @Html.DisplayTextFor(m => m.Nombre) ?
+            </div>
+
+            <button type="submit" class="btn btn-primary"> <i class="bi bi-trash2-fill"></i> Eliminar</button>
+            <a asp-action="Listado" asp-controller="Familia" class="btn btn-warning"> <i class="bi bi-arrow-left-square-fill"></i>  Volver a la lista</a>
+        </form>
+    </div>
+</div>

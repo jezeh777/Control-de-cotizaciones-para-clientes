@@ -23,7 +23,7 @@
 
     
 <div class="row">
-    <div class="col-4">
+    <div class="col-5">
         <div class="card ">
             <div class="card-header">
                 Listado de Productos
@@ -67,7 +67,7 @@
             </div>
         </div>
     </div>
-    <div class="col-8">
+    <div class="col-7">
         <div class="card">
             <div class="card-header">
                 Listado para la Cotizacion
@@ -106,7 +106,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm">
-                        <button class="btn btn-info" id="btnGuardar"><i class="bi bi-floppy-fill"></i> Guardar Cotizacion</button>
+                        <button class="btn btn-info" id="btnGuardar"><i class="bi bi-floppy-fill"></i> Guardar Cotizacion y generar documento</button>
                     </div>
 
                 </div>
@@ -126,10 +126,11 @@
     <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
     <script>
-
+        //Se 
         $(document).ready(function () {
                 $('#clienteSelect').select2();
             var productoDetalle = []
+
             $('#familySelect').change(function () {
                 var id = $(this).val();
 
@@ -187,10 +188,10 @@
                 $('#CotizacionTabla tbody').append(
                     '<tr>'+
                     '<td>' + nombre + '</td>' +
-                    '<td><input class="intro" type="number" value="0" data-id="' + idProducto + '"></td>' +
+                        '<td><input class="form-control-sm intro" type="number" value="0" data-id="' + idProducto + '"></td>' +
                     '<td class="price">' + precio + '</td>' +
                     '<td class="result">0</td>' +
-                        '<td> <button  class="btn btn-danger btn-sm" type="button" data-id="' + idProducto + '"> <i class="bi bi-trash2-fill"></i></button> </td>' +
+                        '<td> <button  class="btn btn-danger btn-sm eliminarFila" type="button" data-id="' + idProducto + '"> <i class="bi bi-trash2-fill"></i></button> </td>' +
                     '</tr>');
             });
 
@@ -202,7 +203,6 @@
                 var precio = parseFloat($(this).closest('tr').find('.price').text());
                 var resultadoElement = $(this).closest('tr').find('.result');
 
-                
 
                 if (valorInput < 1){
                     $(this).val() = 1
@@ -252,6 +252,18 @@
                 $('#precioTotal').text(totalPrecio.toFixed(2));
 
             }
+
+                $("#CotizacionTabla tbody").on("click", ".eliminarFila", function () {
+                    var idProducto = $(this).data('id');
+                    $(this).closest("tr").remove();
+                    for (var i = 0; i < productoDetalle.length; i++) {
+                        if (productoDetalle[i].IdProducto == idProducto) {
+                            productoDetalle.splice(i, 1);
+                            break;
+                        }
+                    }
+                    
+            });
 
          
             $('#btnGuardar').click(function () {

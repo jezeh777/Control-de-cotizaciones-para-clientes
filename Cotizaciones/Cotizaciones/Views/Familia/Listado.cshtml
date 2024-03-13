@@ -1,0 +1,36 @@
+﻿@model List<FamiliaProductosModel>
+@{
+    ViewData["Title"] = "Listado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        Listado de categorias
+    </div>
+    <div class="card-body">
+
+        <a asp-action="Guardar" asp-controller="Familia" class="btn btn-success"><i class="bi bi-plus-circle-fill"></i> Crear Nuevo</a>
+        <hr />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                       <td> <a asp-action="Eliminar" asp-controller="Familia" class="btn btn-danger btn-sm" asp-route-IdCliente="@item.IdFamilia"> <i class="bi bi-trash2-fill"></i> Eliminar</a></td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div>
+</div>

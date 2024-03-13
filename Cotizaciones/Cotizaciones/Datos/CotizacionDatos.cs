@@ -82,11 +82,9 @@ namespace Cotizaciones.Datos
         }
         public int Guardar(DatosCotizacionModel datos)
         {
-     
             int nuevoId = 0;
             try
-            {
-                
+            {        
                 var conn = new Conexion();
                 
                 using (var conexion = new SqlConnection(conn.getCadenaSQL()))
@@ -121,9 +119,7 @@ namespace Cotizaciones.Datos
                             transaccion.Rollback();
                             throw;
                         }
-                    }
-                   
-                    
+                    } 
                 }
                 return nuevoId;
           
@@ -132,8 +128,6 @@ namespace Cotizaciones.Datos
             {
                 throw;
             }
-          
-
         }
     }
 }

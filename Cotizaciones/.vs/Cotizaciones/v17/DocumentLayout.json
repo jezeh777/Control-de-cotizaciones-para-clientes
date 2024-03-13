@@ -3,47 +3,115 @@
   "WorkspaceRootPath": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\cotizacion\\hacercotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\hacercotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\detalledatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\detalledatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\cotizacion\\imprimircotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\imprimircotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\familiaproductosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\familiaproductosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\cotizacion\\reportecotizaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\reportecotizaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\controllers\\familiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\controllers\\familiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\controllers\\cotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\familia\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\familia\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\familia\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\familia\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\familia\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\familia\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\controllers\\cotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\controllers\\cotizacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\familiaproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\familiaproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\cotizaciondatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\cotizaciondatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\cotizacion\\hacercotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\hacercotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\cotizacion\\imprimircotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\imprimircotizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\cotizacion\\reportecotizaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\cotizacion\\reportecotizaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\cotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\cotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\datos\\cotizaciondatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\cotizaciondatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\detalledatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\detalledatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\datos\\datoscotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\datoscotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\datoscotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,19 +123,15 @@
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\hacercotizacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\models\\imprimirmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\imprimirmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\imprimirmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\models\\detalleproductomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\detalleproductomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\detalleproductomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|c:\\users\\carlos.toscano\\desktop\\proyecto\\control-de-cotizaciones-para-clientes\\cotizaciones\\cotizaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -75,32 +139,8 @@
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\guardarprodcutosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\familiaproductosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\familiaproductosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\datos\\productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\datos\\productosdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\cotizacionvistamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,26 +159,6 @@
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\productos\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\productos\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\views\\clientes\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\views\\clientes\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\familiaproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\familiaproductosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\cotizaciones\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{218281EC-8458-4981-A4FD-E0575DD192AA}|Cotizaciones\\Cotizaciones.csproj|solutionrelative:cotizaciones\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -154,17 +174,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 163,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CotizacionController.cs",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\CotizacionController.cs",
               "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\CotizacionController.cs",
               "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\CotizacionController.cs",
               "RelativeToolTip": "Cotizaciones\\Controllers\\CotizacionController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAIAwwEQAAAAMAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAIAwwDcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T17:09:15.439Z",
               "IsPinned": true,
@@ -172,372 +192,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "hacerCotizacion.cshtml",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml",
               "RelativeDocumentMoniker": "Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml*",
-              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml*",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAGcAAAAyAAAA",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\hacerCotizacion.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAQwMwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-10T17:21:15.921Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FamiliaController.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\FamiliaController.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\FamiliaController.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\FamiliaController.cs",
+              "RelativeToolTip": "Cotizaciones\\Controllers\\FamiliaController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:07:06.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImprimirCotizacion.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T18:24:14.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CotizacionDatos.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\CotizacionDatos.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\CotizacionDatos.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\CotizacionDatos.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\CotizacionDatos.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:33:42.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CotizacionModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\CotizacionModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\CotizacionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:02:13.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Startup.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Startup.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Startup.cs",
-              "RelativeToolTip": "Cotizaciones\\Startup.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T18:16:25.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Program.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Program.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Program.cs",
-              "RelativeToolTip": "Cotizaciones\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:55:25.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Cotizaciones\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:41:44.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReporteCotizaciones.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml*",
-              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAADJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T22:24:13.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DatosCotizacionModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DatosCotizacionModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\DatosCotizacionModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DatosCotizacionModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\DatosCotizacionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:30:11.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetalleDatos.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DetalleDatos.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\DetalleDatos.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DetalleDatos.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\DetalleDatos.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswCIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:07:15.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HacerCotizacionModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\HacerCotizacionModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\HacerCotizacionModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\HacerCotizacionModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\HacerCotizacionModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:23:02.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ImprimirModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ImprimirModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\ImprimirModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ImprimirModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\ImprimirModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T18:50:11.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DetalleModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\DetalleModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\DetalleModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T17:04:57.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClienteDatos.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ClienteDatos.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\ClienteDatos.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ClienteDatos.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\ClienteDatos.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wCIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:03:23.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T18:20:59.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DetalleProductoModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleProductoModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\DetalleProductoModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleProductoModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\DetalleProductoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T18:44:30.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GuardarProdcutosModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\GuardarProdcutosModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\GuardarProdcutosModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\GuardarProdcutosModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\GuardarProdcutosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:00:29.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "FamiliaProductosDatos.cs",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\FamiliaProductosDatos.cs",
               "RelativeDocumentMoniker": "Cotizaciones\\Datos\\FamiliaProductosDatos.cs",
               "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\FamiliaProductosDatos.cs",
               "RelativeToolTip": "Cotizaciones\\Datos\\FamiliaProductosDatos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAmAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAMwEwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T15:48:29.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductosModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ProductosModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\ProductosModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ProductosModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\ProductosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "DetalleDatos.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DetalleDatos.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\DetalleDatos.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DetalleDatos.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\DetalleDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:12:06.058Z",
+              "WhenOpened": "2024-03-10T17:07:15.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CotizacionVistaModel.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionVistaModel.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Models\\CotizacionVistaModel.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionVistaModel.cs",
-              "RelativeToolTip": "Cotizaciones\\Models\\CotizacionVistaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T22:36:59.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Editar.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Editar.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAqwAwAAAA9AAAA",
+              "DocumentIndex": 5,
+              "Title": "Listado.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Listado.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Familia\\Listado.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Listado.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Familia\\Listado.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T16:31:35.539Z",
+              "WhenOpened": "2024-03-13T14:11:19.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Familia\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Eliminar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Familia\\Eliminar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T14:20:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Cotizaciones\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Cotizaciones\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAABWAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-10T06:56:46.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Eliminar.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAACDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T16:32:01.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Listar.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Listar.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Listar.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Listar.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Listar.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwCMAAACVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:43:02.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductosDatos.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ProductosDatos.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\ProductosDatos.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ProductosDatos.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\ProductosDatos.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:15:22.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Cotizaciones\\Controllers\\ProductosController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:15:01.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\Conexion.cs",
-              "RelativeToolTip": "Cotizaciones\\Datos\\Conexion.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:57:20.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 6,
               "Title": "Guardar.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Guardar.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Guardar.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Guardar.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Guardar.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAUAAAA",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Familia\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Familia\\Guardar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Familia\\Guardar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T15:56:36.536Z",
+              "WhenOpened": "2024-03-13T14:15:12.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 7,
               "Title": "Eliminar.cshtml",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Eliminar.cshtml",
               "RelativeDocumentMoniker": "Cotizaciones\\Views\\Clientes\\Eliminar.cshtml",
@@ -550,20 +309,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Clientes\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Editar.cshtml",
-              "RelativeToolTip": "Cotizaciones\\Views\\Clientes\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T06:40:45.009Z",
+              "DocumentIndex": 9,
+              "Title": "ClienteDatos.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ClienteDatos.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\ClienteDatos.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ClienteDatos.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\ClienteDatos.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:03:23.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 10,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Cotizaciones\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:41:44.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Guardar.cshtml",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Guardar.cshtml",
               "RelativeDocumentMoniker": "Cotizaciones\\Views\\Clientes\\Guardar.cshtml",
@@ -576,33 +348,322 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 12,
               "Title": "Listar.cshtml",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Listar.cshtml",
               "RelativeDocumentMoniker": "Cotizaciones\\Views\\Clientes\\Listar.cshtml",
               "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Listar.cshtml",
               "RelativeToolTip": "Cotizaciones\\Views\\Clientes\\Listar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-10T05:49:51.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 13,
               "Title": "FamiliaProductosModel.cs",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\FamiliaProductosModel.cs",
               "RelativeDocumentMoniker": "Cotizaciones\\Models\\FamiliaProductosModel.cs",
               "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\FamiliaProductosModel.cs",
               "RelativeToolTip": "Cotizaciones\\Models\\FamiliaProductosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T15:47:13.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductosDatos.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ProductosDatos.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\ProductosDatos.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\ProductosDatos.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\ProductosDatos.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAnwFoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:15:22.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImprimirCotizacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\ImprimirCotizacion.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAHIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T18:24:14.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CotizacionDatos.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\CotizacionDatos.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\CotizacionDatos.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\CotizacionDatos.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\CotizacionDatos.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAawFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:33:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Guardar.cshtml*",
+              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Guardar.cshtml*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T15:56:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Listar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Listar.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCMAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T15:43:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Eliminar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T16:32:01.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Productos\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Productos\\Editar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Productos\\Editar.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T16:31:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CotizacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\CotizacionModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\CotizacionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:02:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Startup.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Startup.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Startup.cs",
+              "RelativeToolTip": "Cotizaciones\\Startup.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:16:25.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Program.cs",
+              "RelativeToolTip": "Cotizaciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:55:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:45:05.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReporteCotizaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Cotizacion\\ReporteCotizaciones.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:24:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DatosCotizacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DatosCotizacionModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\DatosCotizacionModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\DatosCotizacionModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\DatosCotizacionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:30:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HacerCotizacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\HacerCotizacionModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\HacerCotizacionModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\HacerCotizacionModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\HacerCotizacionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:23:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ImprimirModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ImprimirModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\ImprimirModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ImprimirModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\ImprimirModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:50:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetalleModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\DetalleModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\DetalleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T17:04:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T18:20:59.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetalleProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleProductoModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\DetalleProductoModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\DetalleProductoModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\DetalleProductoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GuardarProdcutosModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\GuardarProdcutosModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\GuardarProdcutosModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\GuardarProdcutosModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\GuardarProdcutosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:00:29.236Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "ProductosModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ProductosModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\ProductosModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ProductosModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\ProductosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:12:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CotizacionVistaModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionVistaModel.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Models\\CotizacionVistaModel.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\CotizacionVistaModel.cs",
+              "RelativeToolTip": "Cotizaciones\\Models\\CotizacionVistaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:36:59.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Cotizaciones\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:15:01.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Cotizaciones\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Cotizaciones\\Datos\\Conexion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T04:57:20.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Cotizaciones\\Views\\Clientes\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Views\\Clientes\\Editar.cshtml",
+              "RelativeToolTip": "Cotizaciones\\Views\\Clientes\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T06:40:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "ClienteModel.cs",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\Models\\ClienteModel.cs",
               "RelativeDocumentMoniker": "Cotizaciones\\Models\\ClienteModel.cs",
@@ -610,12 +671,11 @@
               "RelativeToolTip": "Cotizaciones\\Models\\ClienteModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:41:36.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T04:41:36.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\carlos.toscano\\Desktop\\Proyecto\\Control-de-cotizaciones-para-clientes\\Cotizaciones\\Cotizaciones\\appsettings.json",
               "RelativeDocumentMoniker": "Cotizaciones\\appsettings.json",
@@ -623,8 +683,7 @@
               "RelativeToolTip": "Cotizaciones\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-10T04:44:35.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T04:44:35.026Z"
             }
           ]
         }
